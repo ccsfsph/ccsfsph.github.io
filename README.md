@@ -1,6 +1,6 @@
 # ccsfsph.github.io
 
-CCSF Schedule Planner Helper Document
+## CCSF Schedule Planner Helper Document
 
 What's your preferred language?
 
