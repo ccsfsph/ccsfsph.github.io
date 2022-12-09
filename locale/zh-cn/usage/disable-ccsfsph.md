@@ -4,7 +4,7 @@
 
 如果在使用过程中遇到问题，可以联系我们：[ccsfsph@gmail.com](mailto:ccsfsph@gmail.com)
 
-如果你想分享你的问题并且让其他人帮助你，你可以发起一个 issue：[https://github.com/ccsfsph/ccsf-schedule-planner-helper/issues][https://github.com/ccsfsph/ccsf-schedule-planner-helper/issues]
+如果你想分享你的问题并且让其他人帮助你，你可以发起一个 issue：[https://github.com/ccsfsph/ccsf-schedule-planner-helper/issues](https://github.com/ccsfsph/ccsf-schedule-planner-helper/issues)
 
 在浏览器右上角找到类似拼图的图案，然后点击【Tampermonkey】
 
