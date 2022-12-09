@@ -14,5 +14,5 @@
 
 [How to update CCSFSPH](./usage/update-ccsfsph)
 
-[How to CCSFSPH](./usage/disable-ccsfsph)
+[How to disable CCSFSPH](./usage/disable-ccsfsph)
 
