@@ -4,7 +4,7 @@
 
 [https://ccsf.collegescheduler.com/entry](https://ccsf.collegescheduler.com/entry)
 
-选择任意一个学期
+选择一个学期
 
 ![image-20221208154344965](./pictures/usage-ccsfsph/image-20221208154344965.png)
 
