@@ -18,3 +18,5 @@
 
 [如何更新 CCSFSPH](./usage/update-ccsfsph)
 
+[如何禁用 CCSFSPH](./usage/disable-ccsfsph)
+
