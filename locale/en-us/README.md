@@ -16,3 +16,4 @@
 
 [Click here to see how to disable CCSFSPH](./usage/disable-ccsfsph)
 
+[Click here to see how to remove CCSFSPH cache](./usage/usage-remove-ccsfsph-cache)

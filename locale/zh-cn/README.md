@@ -16,3 +16,5 @@
 
 [点击查看如何禁用 CCSFSPH](./usage/disable-ccsfsph)
 
+[点击查看如何清理 CCSFSPH 缓存](./usage/usage-remove-ccsfsph-cache)
+
