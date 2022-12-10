@@ -1,5 +1,7 @@
 # Why CCSFSPH not work
 
+**Notice: CCSFSPH only support PC, not support mobile device!**
+
 First, check whether the CCSFSPH publish the new version, if there is a new version available, update to the new version, if not you can also reinstall it.
 
 CCSFSPH Update link: [https://greasyfork.org/en/scripts/456247-ccsf-schedule-planner-helper](https://greasyfork.org/en/scripts/456247-ccsf-schedule-planner-helper)

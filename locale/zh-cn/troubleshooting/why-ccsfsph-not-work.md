@@ -1,5 +1,7 @@
 # CCSFSPH 不生效解决方案
 
+**注意：CCSFSPH 只能在 PC 端上使用，不支持移动端！**
+
 首先，查看 CCSFSPH 是否有新版本发布，如果有的话，更新到最新版，如果没有的话，可以点击重新安装。
 
 CCSFSPH 更新链接：[https://greasyfork.org/zh-CN/scripts/456247-ccsf-schedule-planner-helper](https://greasyfork.org/zh-CN/scripts/456247-ccsf-schedule-planner-helper)
@@ -13,3 +15,4 @@ CCSFSPH 更新链接：[https://greasyfork.org/zh-CN/scripts/456247-ccsf-schedul
 如果你已经使用了 Chrome 浏览器，可以尝试更新到最新的 Chrome 版本。
 
 如果以上步骤都完成后，还是没有效果，请联系 [ccsfsph@gmail.com](mailto:ccsfsph@gmail.com)
+
