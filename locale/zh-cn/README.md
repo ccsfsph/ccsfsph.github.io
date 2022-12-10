@@ -18,3 +18,8 @@
 
 [点击查看如何清理 CCSFSPH 缓存](./usage/usage-remove-ccsfsph-cache)
 
+
+
+## 疑难杂症
+
+[点击查看 CCSFSPH 不生效解决方案](./troubleshooting/why-ccsfsph-not-work)
