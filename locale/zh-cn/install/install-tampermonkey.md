@@ -22,4 +22,4 @@
 
 在跳转后的页面完成安装。
 
-安装好 Tampermonkey 之后，还需要[安装 CCSFSPH 脚本](./install-ccsfsph-script)
+安装好 Tampermonkey 之后，还需要[点击安装 CCSFSPH 脚本](./install-ccsfsph-script)

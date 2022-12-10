@@ -22,5 +22,5 @@ Choose `Stable` version, and click `Download`
 
 Finish the install after you jump to another page.
 
-After you install the Tampermonkey successfully, you still need to [install CCSFSPH Script](./install-ccsfsph-script)
+After you install the Tampermonkey successfully, you still need to [Click here to install CCSFSPH Script](./install-ccsfsph-script)
 

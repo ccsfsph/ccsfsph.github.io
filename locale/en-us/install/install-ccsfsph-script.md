@@ -10,4 +10,4 @@ Click `Install`
 
 ![image-20221208213256687](./pictures/install-ccsfsph-script/image-20221208213256687.png)
 
-After install success, you might go to see [How to use CCSFSPH](../usage/usage-ccsfsph)
+After install success, you might go to see [Click here to see how to use CCSFSPH](../usage/usage-ccsfsph)

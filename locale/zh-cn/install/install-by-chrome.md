@@ -28,5 +28,5 @@
 
 
 
-安装完成后，快来看下怎么使用吧~ [如何使用 CCSFSPH](../usage/usage-ccsfsph)
+安装完成后，快来看下怎么使用吧~ [点击查看如何使用 CCSFSPH](../usage/usage-ccsfsph)
 

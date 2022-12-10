@@ -2,17 +2,17 @@
 
 ## Install CCSFSPH Tutorial
 
-[First Step. Install Tampermonkey](./install/install-tampermonkey)
+[First Step. Click here to Install Tampermonkey](./install/install-tampermonkey)
 
-[Second Step. Install CCSFSPH Script](./install/install-ccsfsph-script)
+[Second Step. Click here to Install CCSFSPH Script](./install/install-ccsfsph-script)
 
 
 
 ## CCSFSPH Usage Guide
 
-[How to use CCSFSPH](./usage/usage-ccsfsph)
+[Click here to see how to use CCSFSPH](./usage/usage-ccsfsph)
 
-[How to update CCSFSPH](./usage/update-ccsfsph)
+[Click here to see how to update CCSFSPH](./usage/update-ccsfsph)
 
-[How to disable CCSFSPH](./usage/disable-ccsfsph)
+[Click here to see how to disable CCSFSPH](./usage/disable-ccsfsph)
 
