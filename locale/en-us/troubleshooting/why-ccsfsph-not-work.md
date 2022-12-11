@@ -1,8 +1,12 @@
 # Why CCSFSPH not work
 
-**Notice: CCSFSPH only support PC, not support mobile device!**
+**Notice: CCSFSPH only support PC, not support mobile device, use in mobile device doesn't have any effect!**
 
-First, check whether the CCSFSPH publish the new version, if there is a new version available, update to the new version, if not you can also reinstall it.
+First, go to choose course page and login [https://ccsf.collegescheduler.com/](https://ccsf.collegescheduler.com/) make sure `CCSF Schedule Planner Helper` is enabled.
+
+![image-20221211121511567](./pictures/why-ccsfsph-not-work/image-20221211121511567.png)
+
+Then, check whether the CCSFSPH publish the new version, if there is a new version available, update to the new version, if not you can also reinstall it.
 
 CCSFSPH Update link: [https://greasyfork.org/en/scripts/456247-ccsf-schedule-planner-helper](https://greasyfork.org/en/scripts/456247-ccsf-schedule-planner-helper)
 
